@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thato</h1>
 <h3 align="center">I'm deeply interested in Cybersecurity and web development.</h3>
 # 💫 About Me:
+
 🌱 I’m currently learning Javascript.<br><br>📫 How to reach me: thatopilusa97@gmail.com<br><br>⚡ Fun fact: I like to exercise.
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 

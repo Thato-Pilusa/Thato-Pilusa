@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 
-🌱 I’m currently learning Javascript.<br><br>📫 How to reach me: thatopilusa97@gmail.com<br><br>⚡ Fun fact: I like to exercise.
+🌱 I’m currently learning Javascript.<br>📫 Reach me at: thatopilusa97@gmail.com<br>⚡ Fun fact: The first computer bug was an actual bug - a moth trapped in a relay - which caused a malfunction in the Mark II computer in 1947. This is where the term "bug" for a computer glitch originated.<br>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 

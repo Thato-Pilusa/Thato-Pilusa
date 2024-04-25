@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Thato</h1>
-<h3 align="center">I'm deeply interested in Cybersecurity and web development.</h3>
+<h3 align="center">I'm deeply interested in Cybersecurity (Blue Team).</h3>
 
 # 💫 About Me:
 
-🌱 I’m currently learning Javascript.<br><br>📫 Reach me at: thatopilusa97@gmail.com<br><br>⚡ Fun fact: The first computer bug was an actual bug - a moth trapped in a relay - which caused a malfunction in the Mark II computer in 1947. This is where the term "bug" for a computer glitch originated.<br><br>
+🌱 I’m currently learning Threat Hunting.<br><br>📫 Reach me at: thatopilusa97@gmail.com<br><br>⚡ Fun fact: Believe it or not, the vast majority, around 95%, of data breaches are caused by human error!  This means things like clicking on suspicious links, falling for phishing emails, or using weak passwords can be the key entry point for attackers.<br><br>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 

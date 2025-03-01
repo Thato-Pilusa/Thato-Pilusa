@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Thato</h1>
-<h3 align="center">I'm deeply interested in Cybersecurity (Blue Team).</h3>
+<h3 align="center">I'm deeply interested in Software Engineering and Cybersecurity (Blue Team).</h3>
 
 # 💫 About Me:
 
-🌱 I’m currently learning defensive security <br><br>📩 Reach me at: thatopilusa97@gmail.com<br><br>👨🏻‍💻 My website: https://tinyurl.com/mr3sa849<b><br>📝 My blog: https://medium.com/@thato-pilusa<br><br>⚡ Fun fact: Believe it or not, the vast majority, around 95%, of data breaches are caused by human error!  This means things like clicking on suspicious links, falling for phishing emails, or using weak passwords can be the key entry point for attackers.<br><br>
+🌱 I’m currently persuing my BSc in Computer Science <br><br>📩 Reach me at: thatopilusa97@gmail.com<br><br>👨🏻‍💻 My website: https://tinyurl.com/mr3sa849<b><br>📝 My blog: https://medium.com/@thato-pilusa<br><br>⚡In version control systems like Git, "commit" means saving changes to a codebase, like committing to a relationship.<br><br>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 

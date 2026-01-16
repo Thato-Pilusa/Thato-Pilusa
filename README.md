@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thato</h1>
-<h3 align="center">I'm deeply interested in Software Engineering and Cybersecurity (Blue Team).</h3>
+<h3 align="center">I'm deeply interested in Cybersecurity (Blue Team).</h3>
 
 # 💫 About Me:
 
